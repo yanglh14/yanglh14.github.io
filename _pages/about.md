@@ -52,6 +52,8 @@ Enhancing decision-making in unstructured environments with rich interactions.
 **Linhan Yang**, Lei Yang, Haoran Sun, Zeqing Zhang, Haibin He, Fang Wan, Chaoyang Song, Jia Pan
 
 The 16th International Workshop on the Algorithmic Foundations of Robotics Chicago, USA, October 7-9 2024
+
+[paper](https://arxiv.org/pdf/2406.14136)
 </div>
 </div>
 
@@ -92,6 +94,7 @@ IEEE Robotics and Automation Letters, 2023; IEEE/RSJ International Conference on
 
 IEEE Robotics and Automation Letters, 2021; IEEE International Conference on Robotics and Automation (ICRA)
 
+[code](https://github.com/yanglh14/InteractiveGrasping), [paper](https://arxiv.org/pdf/2101.12379)
 </div>
 </div>
 
@@ -107,13 +110,13 @@ IEEE Robotics and Automation Letters, 2020; IEEE International Conference on Rob
 </div>
 </div>
 
-CafkNet: GNN-Empowered Forward Kinematic Modeling for Cable-Driven Parallel Robots;
+-CafkNet: GNN-Empowered Forward Kinematic Modeling for Cable-Driven Parallel Robots;
 Zeqing Zhang<sup>*</sup>, **Linhan Yang**<sup>*</sup>, Cong Sun, Weiwei Shang, Jia Pan;
 [paper](https://arxiv.org/pdf/2402.18420)
 
-DeepClaw: A robotic hardware benchmarking platform for learning object manipulation;
+-DeepClaw: A robotic hardware benchmarking platform for learning object manipulation;
 Fang Wan, Haokun Wang, Xiaobo Liu, Linhan Yang, Chaoyang Song;
 2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM);
 [paper](https://arxiv.org/pdf/2005.02588)
 
-<sup>*</sup> Equal contribution
+* Equal contribution
