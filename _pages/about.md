@@ -31,6 +31,9 @@ Enhancing decision-making in unstructured environments with rich interactions.
 - *2024.09*: &nbsp;🎉🎉 I join **Noah's Ark Lab** as a Robotics Researcher in Hong Kong.
 - *2024.08*: &nbsp;🎉🎉 Our paper "One Fling to Goal: Environment-aware Dynamics for Goal-conditioned Fabric Flinging
 " is accepted by **WAFR 2024**.
+- *2024.5*: &nbsp;🎉🎉 We participated in [ICRA 2024 Cloth Competition](https://airo.ugent.be/cloth_competition/) and randed 4th.
+- *2023.11*: &nbsp;🎉🎉 Our paper "Bridging Locomotion and Manipulation Using Reconfigurable Robotic Limbs via Reinforcement" is accepted by **Biomimetics 2023**.
+
 
 # 📖 Educations
 - *2019.06 - 2024.08*, University of Hong Kong (Hong Kong), Ph.D. in Computer Science.
