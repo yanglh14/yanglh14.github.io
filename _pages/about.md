@@ -51,3 +51,35 @@ Enhancing decision-making in unstructured environments with rich interactions.
 
 **Linhan Yang**, Lei Yang, Haoran Sun, Zeqing Zhang, Haibin He, Fang Wan, Chaoyang Song, Jia Pan
 
+The 16th International Workshop on the Algorithmic Foundations of Robotics Chicago, USA, October 7-9 2024
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2023</div><img src='images/TacGNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tacgnn: Learning tactile-based in-hand manipulation with a blind robot using hierarchical graph neural network](https://bionicdl.ancorasir.com/wp-content/uploads/2023/11/2023-J-RAL-TacGNN.pdf)
+
+**Linhan Yang**, Bidan Huang, Qingbiao Li, Ya-Yen Tsai, Wang Wei Lee, Chaoyang Song, Jia Pan
+
+IEEE ROBOTICS AND AUTOMATION LETTERS, 2023; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+
+Code and data are available at [GitHub](https://github.com/yanglh14/TacGNN)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2021</div><img src='images/Interactive-grasping.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning-based optoelectronically innervated tactile finger for rigid-soft interactive grasping](https://arxiv.org/pdf/2101.12379)
+
+**Linhan Yang**, Xudong Han, Weijie Guo, Fang Wan, Jia Pan, Chaoyang Song
+
+IEEE Robotics and Automation Letters, 2021; IEEE International Conference on Robotics and Automation (ICRA)
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2020</div><img src='images/Rigid-soft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rigid-soft interactive learning for robust grasping](https://arxiv.org/pdf/2003.01584)
+
+**Linhan Yang**, Fang Wan, Haokun Wang, Xiaobo Liu, Yujia Liu, Jia Pan, Chaoyang Song
+
+IEEE Robotics and Automation Letters, 2020; IEEE International Conference on Robotics and Automation (ICRA)
+
