@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at University of Hong Kong (Hong Kong) under supervision of Dr. Pan Jia (HKU) and Dr. Song Chaoyang (Sustech). 
-I received my B.S. degree from Tsinghua University (Beijing) in 2018. I worked with Dr. Huang Bidan from Tencent RoboticsX from April 2021 to July 2022 with the Tencent Rhino-Bird Elite Talent Program.
+I work at Noah's Ark Lab as a Robotics Researcher in Hong Kong since 2024.
+
+I graduated from the Department of Computer Science, University of Hong Kong (Hong Kong) with a PhD degree under supervision of Dr. Pan Jia (HKU) and Dr. Song Chaoyang (Sustech). 
+I received my B.S. degree from the Department of Precise Instrument, Tsinghua University (Beijing) in 2018. 
+I worked with Dr. Huang Bidan from Tencent RoboticsX from April 2021 to July 2022 with the Tencent Rhino-Bird Elite Talent Program.
 
 My research focuses on **robotics perception and manipulation** using learning-based methods. Specifically, I am interested in:
 Developing a generic representation for world understanding through vision and tactile sensing;
 Enhancing decision-making in unstructured environments with rich interactions.
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 I join **Noah's Ark Lab** as a Robotics Researcher in Hong Kong.
 - *2024.08*: &nbsp;🎉🎉 Our paper "One Fling to Goal: Environment-aware Dynamics for Goal-conditioned Fabric Flinging
 " is accepted by **WAFR 2024**.
 
@@ -40,7 +44,7 @@ Enhancing decision-making in unstructured environments with rich interactions.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WAFR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WAFR 2024</div><img src='images/Fling-to-goal.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [One Fling to Goal: Environment-aware Dynamics for Goal-conditioned Fabric Flinging](https://arxiv.org/pdf/2406.14136)
