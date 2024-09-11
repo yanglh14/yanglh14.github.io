@@ -36,7 +36,7 @@ Enhancing decision-making in unstructured environments with rich interactions.
 - *2019.06 - 2024.08*, University of Hong Kong (Hong Kong), Ph.D. in Computer Science.
 - *2014.09 - 2018.06*, Tsinghua University (Beijing), B.S. in Department of Precise Instrument.
 
-# 💻 <span id="work-experience">Work</span>
+# 💻 <span id="work-experience">Work Experience</span>
 
 - *Jun. 2023 - Aug. 2024*, Research Intern, Center for Transformative Garment Production, Hong Kong
 - *Apr. 2021 - Jul. 2022*, Research Intern, Tencent RoboticsX, Shenzhen, China
