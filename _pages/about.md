@@ -52,6 +52,8 @@ Enhancing decision-making in unstructured environments with rich interactions.
 **Linhan Yang**, Lei Yang, Haoran Sun, Zeqing Zhang, Haibin He, Fang Wan, Chaoyang Song, Jia Pan
 
 The 16th International Workshop on the Algorithmic Foundations of Robotics Chicago, USA, October 7-9 2024
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2023</div><img src='images/TacGNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,6 +66,9 @@ IEEE ROBOTICS AND AUTOMATION LETTERS, 2023; IEEE/RSJ International Conference on
 
 Code and data are available at [GitHub](https://github.com/yanglh14/TacGNN)
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2021</div><img src='images/Interactive-grasping.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,6 +78,8 @@ Code and data are available at [GitHub](https://github.com/yanglh14/TacGNN)
 
 IEEE Robotics and Automation Letters, 2021; IEEE International Conference on Robotics and Automation (ICRA)
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2020</div><img src='images/Rigid-soft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,3 +90,5 @@ IEEE Robotics and Automation Letters, 2021; IEEE International Conference on Rob
 
 IEEE Robotics and Automation Letters, 2020; IEEE International Conference on Robotics and Automation (ICRA)
 
+</div>
+</div>
