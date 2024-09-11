@@ -55,6 +55,20 @@ The 16th International Workshop on the Algorithmic Foundations of Robotics Chica
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetics 2023</div><img src='images/biomimetics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bridging Locomotion and Manipulation Using Reconfigurable Robotic Limbs via Reinforcement](https://www.mdpi.com/2313-7673/8/4/364);
+
+Haoran Sun<sup>*</sup>, **Linhan Yang**<sup>*</sup>, Yuping Gu, Jia Pan, Fang Wan, Chaoyang Song;
+
+Biomimetics, 2023; 
+
+[paper](https://www.mdpi.com/2313-7673/8/4/364)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2023</div><img src='images/TacGNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,9 +76,9 @@ The 16th International Workshop on the Algorithmic Foundations of Robotics Chica
 
 **Linhan Yang**, Bidan Huang, Qingbiao Li, Ya-Yen Tsai, Wang Wei Lee, Chaoyang Song, Jia Pan
 
-IEEE ROBOTICS AND AUTOMATION LETTERS, 2023; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IEEE Robotics and Automation Letters, 2023; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
-Code and data are available at [GitHub](https://github.com/yanglh14/TacGNN)
+[code](https://github.com/yanglh14/TacGNN), [paper](https://bionicdl.ancorasir.com/wp-content/uploads/2023/11/2023-J-RAL-TacGNN.pdf)
 
 </div>
 </div>
@@ -92,3 +106,14 @@ IEEE Robotics and Automation Letters, 2020; IEEE International Conference on Rob
 
 </div>
 </div>
+
+CafkNet: GNN-Empowered Forward Kinematic Modeling for Cable-Driven Parallel Robots;
+Zeqing Zhang<sup>*</sup>, **Linhan Yang**<sup>*</sup>, Cong Sun, Weiwei Shang, Jia Pan;
+[paper](https://arxiv.org/pdf/2402.18420)
+
+DeepClaw: A robotic hardware benchmarking platform for learning object manipulation;
+Fang Wan, Haokun Wang, Xiaobo Liu, Linhan Yang, Chaoyang Song;
+2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM);
+[paper](https://arxiv.org/pdf/2005.02588)
+
+<sup>*</sup> Equal contribution
