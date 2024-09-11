@@ -30,7 +30,7 @@ Enhancing decision-making in unstructured environments with rich interactions.
 
 # 📖 Educations
 - *2019.06 - 2024.08*, University of Hong Kong (Hong Kong), Ph.D. in Computer Science.
-- *2015.09 - 2019.06*, Tsinghua University (Beijing), B.S. in Department of Precise Instrument.
+- *2014.09 - 2018.06*, Tsinghua University (Beijing), B.S. in Department of Precise Instrument.
 
 # 💻 Work Experience
 
