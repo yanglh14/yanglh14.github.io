@@ -60,11 +60,11 @@ The 16th International Workshop on the Algorithmic Foundations of Robotics Chica
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetics 2023</div><img src='images/biomimetics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bridging Locomotion and Manipulation Using Reconfigurable Robotic Limbs via Reinforcement](https://www.mdpi.com/2313-7673/8/4/364);
+[Bridging Locomotion and Manipulation Using Reconfigurable Robotic Limbs via Reinforcement](https://www.mdpi.com/2313-7673/8/4/364)
 
-Haoran Sun\*, **Linhan Yang**\*, Yuping Gu, Jia Pan, Fang Wan, Chaoyang Song;
+Haoran Sun\*, **Linhan Yang**\*, Yuping Gu, Jia Pan, Fang Wan, Chaoyang Song
 
-Biomimetics, 2023; 
+Biomimetics, 2023
 
 [Paper](https://www.mdpi.com/2313-7673/8/4/364)
 
