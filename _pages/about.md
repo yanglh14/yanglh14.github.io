@@ -53,7 +53,7 @@ Enhancing decision-making in unstructured environments with rich interactions.
 
 The 16th International Workshop on the Algorithmic Foundations of Robotics Chicago, USA, October 7-9 2024
 
-[paper](https://arxiv.org/pdf/2406.14136)
+[Paper](https://arxiv.org/pdf/2406.14136)
 </div>
 </div>
 
@@ -66,7 +66,7 @@ Haoran Sun<sup>*</sup>, **Linhan Yang**<sup>*</sup>, Yuping Gu, Jia Pan, Fang Wa
 
 Biomimetics, 2023; 
 
-[paper](https://www.mdpi.com/2313-7673/8/4/364)
+[Paper](https://www.mdpi.com/2313-7673/8/4/364)
 
 </div>
 </div>
@@ -80,7 +80,7 @@ Biomimetics, 2023;
 
 IEEE Robotics and Automation Letters, 2023; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
-[code](https://github.com/yanglh14/TacGNN), [paper](https://bionicdl.ancorasir.com/wp-content/uploads/2023/11/2023-J-RAL-TacGNN.pdf)
+[Code](https://github.com/yanglh14/TacGNN), [Paper](https://bionicdl.ancorasir.com/wp-content/uploads/2023/11/2023-J-RAL-TacGNN.pdf)
 
 </div>
 </div>
@@ -94,7 +94,7 @@ IEEE Robotics and Automation Letters, 2023; IEEE/RSJ International Conference on
 
 IEEE Robotics and Automation Letters, 2021; IEEE International Conference on Robotics and Automation (ICRA)
 
-[code](https://github.com/yanglh14/InteractiveGrasping), [paper](https://arxiv.org/pdf/2101.12379)
+[Code](https://github.com/yanglh14/InteractiveGrasping), [Paper](https://arxiv.org/pdf/2101.12379)
 </div>
 </div>
 
@@ -107,16 +107,17 @@ IEEE Robotics and Automation Letters, 2021; IEEE International Conference on Rob
 
 IEEE Robotics and Automation Letters, 2020; IEEE International Conference on Robotics and Automation (ICRA)
 
+[Paper](https://arxiv.org/pdf/2003.01584)
 </div>
 </div>
 
 -CafkNet: GNN-Empowered Forward Kinematic Modeling for Cable-Driven Parallel Robots;
 Zeqing Zhang<sup>*</sup>, **Linhan Yang**<sup>*</sup>, Cong Sun, Weiwei Shang, Jia Pan;
-[paper](https://arxiv.org/pdf/2402.18420)
+[Paper](https://arxiv.org/pdf/2402.18420)
 
 -DeepClaw: A robotic hardware benchmarking platform for learning object manipulation;
 Fang Wan, Haokun Wang, Xiaobo Liu, Linhan Yang, Chaoyang Song;
 2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM);
-[paper](https://arxiv.org/pdf/2005.02588)
+[Paper](https://arxiv.org/pdf/2005.02588)
 
-* Equal contribution
+\* Equal contribution
