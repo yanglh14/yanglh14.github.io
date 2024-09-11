@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at Noah's Ark Lab as a Robotics Researcher in Hong Kong since 2024.
+I work at Noah's Ark Lab as a Robotics Researcher in Hong Kong since Sep. 2024.
 
-I graduated from the Department of Computer Science, University of Hong Kong (Hong Kong) with a PhD degree under supervision of Dr. Pan Jia (HKU) and Dr. Song Chaoyang (Sustech). 
+I graduated from the Department of Computer Science, University of Hong Kong (Hong Kong) with a PhD degree under supervision of Dr. Pan Jia (HKU) and Dr. Song Chaoyang (Sustech) in Aug. 2024. 
 I received my B.S. degree from the Department of Precise Instrument, Tsinghua University (Beijing) in 2018. 
 I worked with Dr. Huang Bidan from Tencent RoboticsX from April 2021 to July 2022 with the Tencent Rhino-Bird Elite Talent Program.
 
@@ -62,7 +62,7 @@ The 16th International Workshop on the Algorithmic Foundations of Robotics Chica
 
 [Bridging Locomotion and Manipulation Using Reconfigurable Robotic Limbs via Reinforcement](https://www.mdpi.com/2313-7673/8/4/364);
 
-Haoran Sun<sup>*</sup>, **Linhan Yang**<sup>*</sup>, Yuping Gu, Jia Pan, Fang Wan, Chaoyang Song;
+Haoran Sun\*, **Linhan Yang**\*, Yuping Gu, Jia Pan, Fang Wan, Chaoyang Song;
 
 Biomimetics, 2023; 
 
@@ -112,7 +112,7 @@ IEEE Robotics and Automation Letters, 2020; IEEE International Conference on Rob
 </div>
 
 -CafkNet: GNN-Empowered Forward Kinematic Modeling for Cable-Driven Parallel Robots;
-Zeqing Zhang<sup>*</sup>, **Linhan Yang**<sup>*</sup>, Cong Sun, Weiwei Shang, Jia Pan;
+Zeqing Zhang\*, **Linhan Yang**\*, Cong Sun, Weiwei Shang, Jia Pan;
 [Paper](https://arxiv.org/pdf/2402.18420)
 
 -DeepClaw: A robotic hardware benchmarking platform for learning object manipulation;
