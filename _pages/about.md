@@ -19,9 +19,9 @@ redirect_from:
 
 I work at Noah's Ark Lab as a Robotics Researcher in Hong Kong since Sep. 2024.
 
-I graduated from the Department of Computer Science, University of Hong Kong (Hong Kong) with a PhD degree under supervision of Dr. Pan Jia (HKU) and Dr. Song Chaoyang (Sustech) in Aug. 2024. 
-I received my B.S. degree from the Department of Precise Instrument, Tsinghua University (Beijing) in 2018. 
-I worked with Dr. Huang Bidan from Tencent RoboticsX from April 2021 to July 2022 with the Tencent Rhino-Bird Elite Talent Program.
+I received my PhD degree from the Department of Computer Science, **University of Hong Kong (Hong Kong)** under supervision of Dr. Pan Jia (HKU) and Dr. Song Chaoyang (Sustech) in Aug. 2024. 
+I received my B.S. degree from the Department of Precise Instrument, **Tsinghua University (Beijing)** in 2018. 
+I worked with Dr. Huang Bidan from **Tencent Robotics X** from April 2021 to July 2022 with the **Tencent Rhino-Bird Elite Talent Program**.
 
 My research focuses on **robotics perception and manipulation** using learning-based methods. Specifically, I am interested in:
 Developing a generic representation for world understanding through vision and tactile sensing;
